@@ -1,4 +1,4 @@
-# VEHICLE DETECTION AND CLASSIFICATION-USING-AND-R-CNN
+# VEHICLE DETECTION AND CLASSIFICATION-USING-SSD-AND-R-CNN
 This repository contains the implementation of an object detection system using Faster R-CNN (Region-based Convolutional Neural Networks) with the ResNet-50 backbone. The system is designed to detect objects (specifically cars in this case) in images and return bounding boxes along with classification labels. The code supports training, validation, and testing on a custom dataset.
 
 ## Table of Contents
